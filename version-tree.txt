@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 branch main
 
 add message
 
+=======
+branch master
+
+add text on master branch
+>>>>>>> master
