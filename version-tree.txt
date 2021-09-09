@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main branch for rebase
 
 <<<<<<< Updated upstream
@@ -12,6 +13,10 @@ branch main
 add message
 
 =======
+=======
+master for rebase
+
+>>>>>>> master
 branch master
 
 add text on master branch
